@@ -1,5 +1,5 @@
 opencv-python-headless
-tensorflow==1.14.0
+tensorflow==2.7.2
 Jinja2==2.9.6
 Flask==0.12.2
 gunicorn==19.7.1
